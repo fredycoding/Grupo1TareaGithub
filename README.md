@@ -1,4 +1,5 @@
-# INTEGRANTES DEL GRUPO #1 - TAREA: TRABAJO COLABORATIVO GON GITHUB
+# INTEGRANTES DEL GRUPO #1
+## TAREA: TRABAJO COLABORATIVO GON GITHUB
 - Yefrid Hernando Morelo Marzola
 - Adrian Esteban Cubides Beltran
 - Eleazar Martínez Gómez
