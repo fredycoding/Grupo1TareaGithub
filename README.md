@@ -1,3 +1,12 @@
+# INTEGRANTES DEL GRUPO #1
+## TAREA: TRABAJO COLABORATIVO GON GITHUB
+- Yefrid Hernando Morelo Marzola
+- Adrian Esteban Cubides Beltran
+- Eleazar Martínez Gómez
+- Edilberto Herrera Niño
+- Robert Carvajal Rodríguez
+- Fredy Diaz Bedoya
+
 # Instrucciones de uso
 
 1 - El integrante del curso, deberá aceptar la invitación para acceder al repositorio de GITHUB
