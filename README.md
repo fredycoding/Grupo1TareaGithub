@@ -19,7 +19,7 @@
 
 5 - Una vez realizado los cambios recordar hacer los git add . , los git commit pertinentes y luego hacer el git push para subir los cambios
 
-6 - Recomendación es que usar la misma esctrucuta HTML la cual ya esta demarcada para cada integrante como se ve en la pantalla:
+6 - Recomendación es que usar la misma esctructura HTML la cual ya esta demarcada para cada integrante como se ve en la pantalla:
 ![image](https://user-images.githubusercontent.com/16197568/172921141-8bca5175-20a3-4daf-8fad-1e30ae81ac77.png)
 ** Para los compañeros que se les dificulte el HTML. podrian copiar la estructura que esta en el "Integrante # 1" y organizar los datos de acuerdo a su usuario.
 
